@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! Welcome to my profile 😁
 
-<!--
-**achani2497/achani2497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working @ Ingeray, improving the documentation management with an internal system that i´m developing
+- 🌱 I’m learning to use Laravel and Vue. On the other hand, i´m improving in my CSS skills 
+- 💬 Ask me about The Simpsons, F1, Food Recipes and Valorant 👾
+- 📫 How to reach me: I´m currently working in my own Portfolio, so i will soon publish it and there you're gonna be able to contact me!
+- ⚡️ Others facts about me: 
+  - I love animals, i have 3 little dogs 🐶
+  - I'm  a big fan of videogames and Marvel Movies 👽
+  - I really love rainy and cold days, i'm a winter person ❄️ 🌧
+  
+  #### Hope you enjoyed reading this little piece of information about me, cya!
